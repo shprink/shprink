@@ -33,7 +33,7 @@ Visit us at: **[fancyagent.app](https://fancyagent.app)**
 ### CA:
 
 ```
-[Your Contract Address Here]
+
 ```
 
 </div>
